@@ -1,0 +1,44 @@
+ID : guhyeju43@gmail.com
+
+2021년 7월이후로 깃허브 정책변경으로 토큰인증 필수
+-주소를 부여 받은 후 권한을 지정한 다음 토큰 생성
+-생성한 토큰은 안전한 곳에 보관하자(유출 주의)
+-토큰 생성 이후 권한은 변경 가능 함
+
+
+저장소 : https://github.com/GuHyeju960125/UnityGame
+
+토큰 : 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
+
+
+#깃허브 저장소 생성
+
+#깃허브 저장소 클론 
+
+
+#내컴퓨터의 내문서 아래에 생성된 프로젝트 디렉토리에서 파일 생성 및
+작업완료
+
+#커밋할 파일들 선택해서 스테이지에 올리기 (Add)
+
+#커밋하기(commit) 보통은 버전명과 작업한 내용
+
+#푸시하기 (push)
+
+#github.com /내아이디/내프로젝트 링크를 통해서 정상적으로 업로드 되었는지 확인
+
+*Github: VersionControlSystem의 한 종류이다.
+게임의 세이브 포인트와 유사한데 언제든지 저장 시점으로 돌아가서
+작업할 수 있다.
+
+*Commit : 게임의 세이브에 해당하는 행동 git에서는 커밋이라 한다.
+언제든지 커밋한 시점으로 되돌아 갈 수 있다.
+commit을 하려면 저장을 원하는 파일들을 묶어서 commit 명령을 수행하면 된다.
+
+#Add : 스테이지에 올린다.
+
+
+
+test
+https://github.com/GuHyeju960125/Hello_Unity
+https://github.com/GuHyeju960125/Hello_Unity.git
